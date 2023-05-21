@@ -1,0 +1,20 @@
+{
+   "admin": {
+      "password": "da03075673014b1828e75a189a2de432b480f4b7b4627f4a1c95f95807b0379a",
+      "count_hash_iteration": 20,
+      "count_try_true": 5,
+      "role_in_system": "admin"
+   },
+   "user": {
+      "password": "108e4a4e948b531c69212c61f0ecfcb210745c64de99377586b881c97c833dd2",
+      "count_hash_iteration": 43,
+      "count_try_true": 3,
+      "role_in_system": "user"
+   },
+   "user_2": {
+      "password": "1889177d84490dff0cf6df7a91fe2c74d52f0876cbef51393e14db9c6669be17",
+      "count_hash_iteration": 567,
+      "count_try_true": 2,
+      "role_in_system": "user"
+   }
+}
